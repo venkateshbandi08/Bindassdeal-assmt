@@ -1,7 +1,7 @@
 # IPL Player's Club
 
--> Deployed link : https://bindaasdeal-v08.vercel.app/
--> Demo video : https://www.loom.com/share/74fe2a5641ba49088c8737d8b731228f?sid=3fe6802d-cb7b-4b54-8a18-580c5a47f977
+### Deployed link : https://bindaasdeal-v08.vercel.app/
+### Demo video : https://www.loom.com/share/74fe2a5641ba49088c8737d8b731228f?sid=3fe6802d-cb7b-4b54-8a18-580c5a47f977
 
 ## Project Overview
 This project is a web application designed to manage an IPL player's club. It allows users to perform CRUD operations on player data, search for players, filter players by team, and manage sessions using JWT for authentication. The project includes both a backend and a frontend, implemented using modern technologies.
